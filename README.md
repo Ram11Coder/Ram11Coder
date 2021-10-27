@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ram11Coder
+- 👋 Hi, I’m Ram
 - 👀 I’m interested in solving real world problems
 - 🌱 I’m currently learning DSA and Java full stack development
 - 💞️ I’m looking to collaborate on java development and code review
